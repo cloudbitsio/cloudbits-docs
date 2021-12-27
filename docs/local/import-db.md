@@ -6,7 +6,7 @@ description: Import SQL database into Docker container
 permalink: /local/import-database/
 ---
 
-```sh
+```console
 # Run wp-cli commands
 $ th exec wp 
 

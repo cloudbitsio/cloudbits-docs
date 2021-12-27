@@ -1,14 +1,14 @@
 ---
 category: 2. Local Development Environment
 order: 3
-title: thunder.yaml
+title: thunder.yml
 description: The envionment configurations
 permalink: /installation/yaml
 ---
 
 Your project directory will contain a YAML definition with contents that look like:
 
-```yaml 
+```yml
 project:
     name: bookshelf
     git: https://git.thunder.so/cherry-blossom-1234.git
@@ -17,6 +17,9 @@ project:
         - 
             name: local
             url: https://bookshelf.local
+        -
+            name: localtest
+            url: https://bookshelf.local:8080
         -
             name: staging
             url: https://cherry-blossom-1234.thunderapp.com
@@ -32,8 +35,8 @@ project:
 
 To sync infrastructure with the definition, run:
 
-```sh
-th project update
+```console
+$ th update
 Creating environment called production with branch main... done, ⬢ Creating cloudbits.io
 https://cloudbits.io
 ``` 
