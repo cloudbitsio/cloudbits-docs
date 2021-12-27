@@ -3,10 +3,10 @@ category: 2. Local Development Environment
 order: 4
 title: Import Database
 description: Import SQL database into Docker container
-permalink: /local/import-database/
+permalink: /local-development/import-database/
 ---
 
-```console
+```sh
 # Run wp-cli commands
 $ th exec wp 
 

@@ -6,4 +6,4 @@ description: An overview of IaC concepts and philosophy
 permalink: /deploy/
 ---
 
-## Overview of IaC (Infratsructure as Code)
+## Overview of IaC (Infrastructure as Code)

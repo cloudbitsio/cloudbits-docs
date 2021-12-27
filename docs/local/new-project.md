@@ -3,7 +3,7 @@ category: 2. Local Development Environment
 order: 2
 title: New Project
 description: New Local WordPress development environment based on Docker
-permalink: /local/create-new-project/
+permalink: /local-development/
 ---
 
 Create new project with Thunder.

@@ -3,7 +3,7 @@ category: 2. Local Development Environment
 order: 3
 title: thunder.yml
 description: The envionment configurations
-permalink: /installation/yaml
+permalink: /local-development/yaml
 ---
 
 Your project directory will contain a YAML definition with contents that look like:
@@ -35,7 +35,7 @@ project:
 
 To sync infrastructure with the definition, run:
 
-```console
+```sh
 $ th update
 Creating environment called production with branch main... done, ⬢ Creating cloudbits.io
 https://cloudbits.io
