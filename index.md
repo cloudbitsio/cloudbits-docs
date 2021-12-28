@@ -7,9 +7,19 @@ order: 1
 
 
 
-Thunder is an open source local development environment focused on [WordPress](https://wordpress.org), powered by [Docker](https://www.docker.com).
+Thunder is a developer platform focused on [WordPress](https://wordpress.org), powered by [Docker](https://www.docker.com).
 
 Thunder is ideal for developing themes and plugins as well as for [contributing to WordPress core](https://make.wordpress.org/core/).
+
+#### Develop
+Run a flexible and fast local development environment using Docker Compose.
+
+#### Preview
+Create new environments for testing and feedback.
+
+#### Deploy
+Deploy in seconds on AWS with Elastic Compute Cloud (ECS).
+
 
 ## Objectives
 

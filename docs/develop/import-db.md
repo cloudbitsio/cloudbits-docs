@@ -1,9 +1,9 @@
 ---
-category: 2. Local Development Environment
+category: 2. Develop
 order: 4
 title: Import Database
 description: Import SQL database into Docker container
-permalink: /local-development/import-database/
+permalink: /develop/import-database/
 ---
 
 ```sh

@@ -1,9 +1,9 @@
 ---
-category: 2. Local Development Environment
+category: 2. Develop
 order: 3
 title: thunder.yml
 description: The envionment configurations
-permalink: /local-development/yaml
+permalink: /develop/yaml
 ---
 
 Your project directory will contain a YAML definition with contents that look like:
